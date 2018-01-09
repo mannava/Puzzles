@@ -1,4 +1,4 @@
-<span><b><u>Circular primes  Problem Number 35 </u></b></span>
+<span><b><u>1. Circular primes  Problem Number 35 </u></b></span>
 &nbsp;
 &nbsp;&nbsp;(<a href="https://projecteuler.net/problem=35" target="_blank"><b>Circular primes</b></a>)<br>
 <div>
@@ -72,10 +72,10 @@
    For this perticular problem, clear understanding of the problem and white boarding,  Breaking the problem into smaller chunks, Getting algorithmic steps before starting the implemention is enough to solve.
    
    <ul>
-  <li>Iterate the loop from 1 to 1000000</li>
+  <li>Iterate the loop from 1 to 1000000, storing visited primes in an object to avoid redundant checks</li>
   <li>While iterating check each number whether its prime or not</li>
-  <li>if its prime pass on to rotateAncheckCircularPrime method</li>
-  <li>At the rotateAndcheckCircularPrime method store passed primenumber into an object and circulate the primenumber in each iteration again checking whether circular number is prime or not</li>
+  <li>if its prime, pass on to rotateAncheckCircularPrime method</li>
+  <li>At the rotateAndcheckCircularPrime method store passed primenumber into an object and circulate the primenumber in each iteration  checking whether circular number is also prime or not</li>
   <li>if its not prime setting flag that number is not a circular prime</li>
   <li>if its primenumber store in object, which will help to maintain visited primes</li>
 </ul>
@@ -86,7 +86,7 @@
 </div>
 ==================================================================================
 <br><br>
-<span><b><u>Roman Numberals  Problem Number 89 </u></b></span>
+<span><b><u> 2. Roman Numberals  Problem Number 89 </u></b></span>
 &nbsp;
 &nbsp;&nbsp;(<a href="https://projecteuler.net/problem=89" target="_blank"><b>Roman Numberals</b></a>)<br>
 <div>
@@ -122,7 +122,7 @@
 <br><br>
 ==================================================================================
 <br><br>
-<span><b><u>Digit Power Sum  Problem Number 119 </u></b></span>&nbsp;
+<span><b><u>3. Digit Power Sum  Problem Number 119 </u></b></span>&nbsp;
 &nbsp;&nbsp;(<a href="https://projecteuler.net/problem=119" target="_blank"><b>Digit Power Sum</b></a>)<br><br><br>
 <div>
 
@@ -181,6 +181,6 @@ a30 =  3904305912313344
 
 <div>
   <b>Actual time spent :</b>
-      It took more than hour to analyze/design steps 
+      It took more than hour to analyze/design steps,
       executing of program took only 30 mins.
 </div>
