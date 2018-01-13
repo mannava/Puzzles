@@ -1,0 +1,21 @@
+{
+  "name": "digits-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc --reporter=html mocha tests/*.spec.js"
+  },
+  "keywords": [],
+  "author": "Harshith Kashyap <harshithkashyap@hotmail.com> (https://github.com/harshithkashyap)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "4.1.0",
+    "nyc": "11.4.1",
+    "sinon": "4.1.5"
+  },
+  "dependencies": {
+    "request": "2.83.0"
+  }
+}
