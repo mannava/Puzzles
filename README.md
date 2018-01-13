@@ -10,7 +10,7 @@
 ## 1. Circular primes  Problem Number 35 (<a href="https://projecteuler.net/problem=35" target="_blank"><b>Circular primes</b></a>)
 
 <div>
-## Sample Output :
+    <b> Sample Output :</b>
 [ '2',
   '3',
   '5',
@@ -90,7 +90,7 @@
 </div>
 <div>
   <b>Actual time spent :</b>
-      It took more than 2 hours to analyze/design/unit testing and execute program.
+      <span> It took more than 2 hours to analyze/design/unit testing and execute program.</span>
 </div>
 
 ## 2. Roman Numberals  Problem Number 89 (<a href="https://projecteuler.net/problem=89" target="_blank"><b>Roman Numberals</b></a>)
@@ -99,7 +99,7 @@
 <br>
 <b> Sample Output :</b>
 
-TOTAL NO.OF CHARS SAVED : 743
+    TOTAL NO.OF CHARS SAVED : 743
 
 <b>Total_Time_Taken:</b> 14.449ms
 </div>
@@ -122,11 +122,12 @@ TOTAL NO.OF CHARS SAVED : 743
 </div>
 <div>
   <b>Actual time spent :</b>
-      It took around more than an hour to analyze/design/unit testing and execute the program.
+      <span>It took around more than an hour to analyze/design/unit testing and execute the program.</span>
 </div>
-## 3. Digit Power Sum  Problem Number 119 <a href="https://projecteuler.net/problem=119" target="_blank"><b>Digit Power Sum</b></a>)
-<div>
 
+## 3. Digit Power Sum  Problem Number 119 <a href="https://projecteuler.net/problem=119" target="_blank"><b>Digit Power Sum</b></a>)
+
+<div>
 <br>
 <b>Sample Output :</b>
 
@@ -184,6 +185,6 @@ a30 =  3904305912313344
 
 <div>
   <b>Actual time spent :</b>
-      It took more than hour to analyze/design/unit testing ,
-      and executing of program took more than an hour.
+      <span>It took more than hour to analyze/design/unit testing ,
+      and executing of program took more than an hour.</span>
 </div>
