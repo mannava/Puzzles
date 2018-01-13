@@ -7,7 +7,7 @@
 ## Code Coverage
     Navigate to coverage folder and open index.html
 
-## 1. Circular primes  Problem Number 35(<a href="https://projecteuler.net/problem=35" target="_blank"><b>Circular primes</b></a>)
+## 1. Circular primes  Problem Number 35 (<a href="https://projecteuler.net/problem=35" target="_blank"><b>Circular primes</b></a>)
 
 <div>
 ## Sample Output :
@@ -67,6 +67,7 @@
   '993319',
   '999331' ]
 </div>
+
 <b>Total_Time_Taken:</b> 1732.074ms</b>
 
 <div>
@@ -95,8 +96,9 @@
 ## 2. Roman Numberals  Problem Number 89 (<a href="https://projecteuler.net/problem=89" target="_blank"><b>Roman Numberals</b></a>)
 
 <div>
-</br>
+<br>
 <b> Sample Output :</b>
+
 TOTAL NO.OF CHARS SAVED : 743
 
 <b>Total_Time_Taken:</b> 14.449ms
@@ -124,8 +126,10 @@ TOTAL NO.OF CHARS SAVED : 743
 </div>
 ## 3. Digit Power Sum  Problem Number 119 <a href="https://projecteuler.net/problem=119" target="_blank"><b>Digit Power Sum</b></a>)
 <div>
+
 <br>
 <b>Sample Output :</b>
+
 a1 =  81,
 a2 =  512,
 a3 =  2401,
