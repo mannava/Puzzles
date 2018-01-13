@@ -1,9 +1,16 @@
-<span><b><u>1. Circular primes  Problem Number 35 </u></b></span>
-&nbsp;
-&nbsp;&nbsp;(<a href="https://projecteuler.net/problem=35" target="_blank"><b>Circular primes</b></a>)<br>
-<div>
+## Usage
+    git clone https://github.com/mannava/Puzzles/
+    cd Puzzles
+    npm install
+    npm test
 
-<b>Sample Output :</b>
+## Code Coverage
+    Navigate to coverage folder and open index.html
+
+## 1. Circular primes  Problem Number 35(<a href="https://projecteuler.net/problem=35" target="_blank"><b>Circular primes</b></a>)
+
+<div>
+## Sample Output :
 [ '2',
   '3',
   '5',
@@ -59,18 +66,18 @@
   '939391',
   '993319',
   '999331' ]
-<br><br>
-<b>Total_Time_Taken:</b> 1732.074ms
 </div>
+<b>Total_Time_Taken:</b> 1732.074ms</b>
+
 <div>
   <b>Reason for Selection :</b>
   Circular Prime problem is very interesting to attempt.
 </div>
-<br>
+
 <div>
   <b>References Used :</b>
    For this perticular problem, clear understanding of the problem and white boarding,  Breaking the problem into smaller chunks, Getting algorithmic steps before starting the implemention is enough to solve.
-   
+
    <ul>
   <li>Iterate the loop from 1 to 1000000, storing visited primes in an object to avoid redundant checks</li>
   <li>While iterating check each number whether its prime or not</li>
@@ -82,25 +89,23 @@
 </div>
 <div>
   <b>Actual time spent :</b>
-      It took more than hour to analyze/design steps and execute program.
+      It took more than 2 hours to analyze/design/unit testing and execute program.
 </div>
-==================================================================================
-<br><br>
-<span><b><u> 2. Roman Numberals  Problem Number 89 </u></b></span>
-&nbsp;
-&nbsp;&nbsp;(<a href="https://projecteuler.net/problem=89" target="_blank"><b>Roman Numberals</b></a>)<br>
+
+## 2. Roman Numberals  Problem Number 89 (<a href="https://projecteuler.net/problem=89" target="_blank"><b>Roman Numberals</b></a>)
+
 <div>
-<br>
-<b>Sample Output :</b>
-<br>TOTAL NO.OF CHARS SAVED : 743
-<br><br>
+</br>
+<b> Sample Output :</b>
+TOTAL NO.OF CHARS SAVED : 743
+
 <b>Total_Time_Taken:</b> 14.449ms
-</div><br>
+</div>
 <div>
   <b>Reason for Selection :</b>
   Roman Numberals, Worked on partial peice of this program earlier. Since already knew some of  of the logic. Felt its good to attempt.
 </div>
-<br>
+
 <div>
   <b>References Used :</b>
    Understanding of the problem,  Breaking the problem into smaller chunks, Getting algorithmic steps before starting.
@@ -112,20 +117,14 @@
   <li>Once converted digit passing to digit2Roman method to covert back to Roman</li>
   <li>Finally returning back to savedChars method and finding how many chars totally saved for the entire file</li>
 </ul>
-</div><br>
-
-
+</div>
 <div>
   <b>Actual time spent :</b>
-      It took around 45 mins to an hour to execute the program.
+      It took around more than an hour to analyze/design/unit testing and execute the program.
 </div>
-<br><br>
-==================================================================================
-<br><br>
-<span><b><u>3. Digit Power Sum  Problem Number 119 </u></b></span>&nbsp;
-&nbsp;&nbsp;(<a href="https://projecteuler.net/problem=119" target="_blank"><b>Digit Power Sum</b></a>)<br><br><br>
+## 3. Digit Power Sum  Problem Number 119 <a href="https://projecteuler.net/problem=119" target="_blank"><b>Digit Power Sum</b></a>)
 <div>
-
+<br>
 <b>Sample Output :</b>
 a1 =  81,
 a2 =  512,
@@ -157,14 +156,14 @@ a27 =  20047612231936,
 a28 =  72301961339136,
 a29 =  248155780267521,
 a30 =  3904305912313344
-<br><br>
+
 <b>Total_Time_Taken:</b> 4.44ms
-</div><br>
+</div>
 <div>
   <b>Reason for Selection :</b>
-  After spending 1 hour analyzing the problem. Want to claim the time without giving up. 
+  After spending 1 hour analyzing the problem. Want to claim the time without giving up.
 </div>
-<br>
+
 <div>
   <b>References Used :</b>
    Spent time. Finally following reference gave hints. After going though couple of times
@@ -176,11 +175,11 @@ a30 =  3904305912313344
   <li>if sum of the digits matches to iterate value then storing into resultObj</li>
   <li>sorting the result object gives the accurate a30 value</li>
 </ul>
-</div><br>
+</div>
 
 
 <div>
   <b>Actual time spent :</b>
-      It took more than hour to analyze/design steps,
-      executing of program took only 30 mins.
+      It took more than hour to analyze/design/unit testing ,
+      and executing of program took more than an hour.
 </div>
